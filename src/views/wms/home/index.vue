@@ -1,5 +1,4 @@
 <template>
-  <doc-alert title="WMS 手册（功能开启）" url="https://doc.iocoder.cn/wms/build/" />
 
   <div class="[--wms-card-radius:8px]">
     <div

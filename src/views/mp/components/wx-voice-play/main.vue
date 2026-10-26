@@ -31,7 +31,7 @@ defineOptions({ name: 'WxVoicePlayer' })
 
 const props = defineProps({
   url: {
-    type: String, // 语音地址，例如说：https://www.iocoder.cn/xxx.amr
+    type: String, // 语音地址，例如说：https://www.example.com/xxx.amr
     required: true
   },
   content: {
